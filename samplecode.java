@@ -1,4 +1,5 @@
 //for loop
+//java program
 public class Factorial
 {
 	public static void main(String[] args)
